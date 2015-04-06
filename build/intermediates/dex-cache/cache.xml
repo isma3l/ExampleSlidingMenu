@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ismael/workspace/xxx/ExampleListActivity/build/intermediates/exploded-aar/xxx/actionbarsherlock/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b7090907f528b9ed2b523f66ba0f1da724c5c0e7">
+        <dex dex="/home/ismael/workspace/xxx/ExampleListActivity/build/intermediates/pre-dexed/debug/classes-e0f3cc185a37e54ca974f55f7296efdfba55852c.jar" />
+    </item>
+    <item
+        jar="/home/ismael/workspace/xxx/ExampleListActivity/libs/crittercism_v3_0_3_sdkonly.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17fd8b2c455671bb79b043fe79fa82846881809f">
+        <dex dex="/home/ismael/workspace/xxx/ExampleListActivity/build/intermediates/pre-dexed/debug/crittercism_v3_0_3_sdkonly-3c58a4391523ca70eb2537217bd98e8a05e19db6.jar" />
+    </item>
+    <item
+        jar="/home/ismael/workspace/xxx/ExampleListActivity/build/intermediates/exploded-aar/xxx/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23386cc462aa2c35f720e4f7fd7a824e7cb199a4">
+        <dex dex="/home/ismael/workspace/xxx/ExampleListActivity/build/intermediates/pre-dexed/debug/classes-f94d4326cdbfcf81ac170dfae5261afb1fe8bb5d.jar" />
+    </item>
+    <item
+        jar="/home/ismael/workspace/xxx/ExampleListActivity/build/intermediates/exploded-aar/xxx/actionbarsherlock/unspecified/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="/home/ismael/workspace/xxx/ExampleListActivity/build/intermediates/pre-dexed/debug/android-support-v4-225e06118542d62f8cf56c3bbe85a6a7bee33f84.jar" />
+    </item>
+
+</items>
